@@ -1,0 +1,31 @@
+/* CSS Navbar */
+.navbar-brand {
+    font-family: 'Sacramento', cursive;
+    font-size: 40px;
+}
+
+.nav-link {
+    text-transform: uppercase;
+    margin-right: 15px;
+}
+
+.jumbotron {
+    background-image: url(img/cat-bg\ \(2\).jpg);
+    background-size: cover;
+    height: 700px;
+    text-align: center;
+}
+
+.jumbotron .display-3,
+.jumbotron .lead {
+    color: white;
+}
+
+.jumbotron .lead {
+    margin-bottom: 30px;
+}
+
+.tombol {
+    text-transform: uppercase;
+    border-radius: 40px;
+}
